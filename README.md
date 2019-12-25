@@ -8,5 +8,6 @@ This is a high scool project for marking attendance of the students. This module
 
 Note: Not suitable for industrial use because of security issues can occur.
 #Screenshots
+![alt text](https://imgur.com/tP34HEp)
 ![Screenshot](ss1.png)
 ![Screenshot](ss2.png)
