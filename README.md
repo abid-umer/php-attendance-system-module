@@ -7,7 +7,6 @@ This is a high scool project for marking attendance of the students. This module
 4. You project is ready. Enter Email: hasan@bxtrack.com and Password: hasan123
 
 Note: Not suitable for industrial use because of security issues can occur.
-#Screenshots
-![alt text](https://imgur.com/tP34HEp)
-![Screenshot](ss1.png)
-![Screenshot](ss2.png)
+#Screenshots<br>
+![Screenshot 1](ss1.png)<br>
+![Screenshot 2](ss2.png)
