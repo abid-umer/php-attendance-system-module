@@ -1,0 +1,46 @@
+[23-Dec-2019 18:49:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bxtrack1/public_html/project/php/database/Db.php on line 11
+[23-Dec-2019 18:49:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bxtrack1/public_html/project/index.php on line 10
+[23-Dec-2019 18:49:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bxtrack1/public_html/project/index.php on line 12
+[23-Dec-2019 18:51:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/index.php on line 12
+[23-Dec-2019 18:52:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/dashboard.php on line 23
+[23-Dec-2019 21:31:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/dashboard.php on line 23
+[23-Dec-2019 21:55:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli() in /home/bxtrack1/public_html/project/attendance.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bxtrack1/public_html/project/attendance.php on line 16
+[23-Dec-2019 21:56:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/attendance.php on line 17
+[23-Dec-2019 21:58:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/attendance.php on line 17
+[24-Dec-2019 05:57:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/dashboard.php on line 23
+[24-Dec-2019 06:50:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/dashboard.php on line 23
+[24-Dec-2019 08:51:45 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/bxtrack1/public_html/project/student-attendance.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bxtrack1/public_html/project/student-attendance.php on line 29
+[24-Dec-2019 09:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/student-attendance.php on line 86
+[24-Dec-2019 09:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/student-attendance.php on line 91
+[24-Dec-2019 09:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/student-attendance.php on line 96
+[24-Dec-2019 09:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/student-attendance.php on line 86
+[24-Dec-2019 09:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/student-attendance.php on line 91
+[24-Dec-2019 09:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/student-attendance.php on line 96
+[24-Dec-2019 09:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/student-attendance.php on line 86
+[24-Dec-2019 09:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/student-attendance.php on line 91
+[24-Dec-2019 09:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/student-attendance.php on line 96
+[24-Dec-2019 09:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/student-attendance.php on line 86
+[24-Dec-2019 09:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/student-attendance.php on line 91
+[24-Dec-2019 09:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/student-attendance.php on line 96
+[24-Dec-2019 09:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/student-attendance.php on line 86
+[24-Dec-2019 09:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/student-attendance.php on line 91
+[24-Dec-2019 09:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/student-attendance.php on line 96
+[24-Dec-2019 09:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/student-attendance.php on line 86
+[24-Dec-2019 09:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/student-attendance.php on line 91
+[24-Dec-2019 09:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bxtrack1/public_html/project/student-attendance.php on line 96
+[24-Dec-2019 09:55:12 UTC] PHP Warning:  Division by zero in /home/bxtrack1/public_html/project/student-attendance.php on line 103
+[24-Dec-2019 09:55:12 UTC] PHP Warning:  Division by zero in /home/bxtrack1/public_html/project/student-attendance.php on line 103
+[24-Dec-2019 09:55:12 UTC] PHP Warning:  Division by zero in /home/bxtrack1/public_html/project/student-attendance.php on line 103
+[24-Dec-2019 09:55:12 UTC] PHP Warning:  Division by zero in /home/bxtrack1/public_html/project/student-attendance.php on line 103
+[24-Dec-2019 09:55:12 UTC] PHP Warning:  Division by zero in /home/bxtrack1/public_html/project/student-attendance.php on line 103
+[24-Dec-2019 10:05:38 UTC] PHP Warning:  Division by zero in /home/bxtrack1/public_html/project/student-attendance.php on line 103
+[24-Dec-2019 10:05:38 UTC] PHP Warning:  Division by zero in /home/bxtrack1/public_html/project/student-attendance.php on line 103
+[24-Dec-2019 10:05:38 UTC] PHP Warning:  Division by zero in /home/bxtrack1/public_html/project/student-attendance.php on line 103
+[24-Dec-2019 10:05:38 UTC] PHP Warning:  Division by zero in /home/bxtrack1/public_html/project/student-attendance.php on line 103
+[24-Dec-2019 10:05:38 UTC] PHP Warning:  Division by zero in /home/bxtrack1/public_html/project/student-attendance.php on line 103
